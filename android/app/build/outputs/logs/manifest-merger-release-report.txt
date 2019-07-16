@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [:@react-native-community_async-storage] C:\Users\remic\React native\ContactPOC\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-contacts] C:\Users\remic\React native\ContactPOC\node_modules\react-native-contacts\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-vector-icons] C:\Users\remic\React native\ContactPOC\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.3] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\ec4d8f9a6d15918e1c42405795d691b1\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\1264155def2503d612285ee7083841ea\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] C:\Users\remic\React native\ContactPOC\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\c9b308f9dc76b7944a2aba3cc7f2a5dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\2f228721ff7d9a689237dd7148ec3c34\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\3640fba5d8ae5d5fa08490447a40d0d5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\5002c817fb53bd0a996a54b429ce6fb9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\5e1bf2f254262af325a0452904057eaf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\d66e4d7fa579764b36cf22cffb3c3cd0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\bd0ff7646136e24876dbec7be1b468fa\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\a5bd5e07c6860ed6a5e3a0043cec3acb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\b38accd05c5c47d2358d6afda0aa8e04\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\e169dc3c514270f53d8783c24eb33391\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\5ffa37316f61d2ad86917b953b69eaea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\d8bc5c7149afe8532206fa5b45da3bfd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\f973cc39d9434d52df508fab9468975d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\a709b9b457a65eea8f0d75f8f6acd7de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\1e08a367aa29236cb46ee920386638a8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\2f2443410e7e1d1bf241dcd119415f4b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\879679ade22fbdf6b78695d87bed9b5b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\4014f874bbdb7ea6daeef3464c0f76c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\403e293dc268d3337b77a247d4dd7c68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\8d243a12b2d90a51339eede61fe6a219\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\6462f4d78bc085ba0e46cdc695fa9622\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\6c7caf27caf7ea82e9cf4fa6d054bccf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\34fd03cde5f89690422da92f7375731d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\398e4f2c0b5677527109424a87447024\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\6d759e24a0006f63f28e75cdf07be3e1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\40860aaef282783fefd0725d2fda4797\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\f02b4daee7f1c5c5679f83d2f934380a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\fee90ae344f401d850b76483052f64ac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\9dd1d58c6ff04731d303fcf17a6c8725\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\59bd15218f0850b255790e6988da7fd1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\f874da5f7863be8bb936945a870f9dca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\75b1c6bec5a4cfc2f4d3d70842e3fec2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\76b5b1bd87cb28c328078bd5ef0beb7d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\cf32344c5ab50ea7bb372bdddfa1d0cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\62bbd92f3e5fdf3231075cf1c8ce865f\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:5:5-72
+MERGED from [:react-native-contacts] C:\Users\remic\React native\ContactPOC\node_modules\react-native-contacts\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-72
+MERGED from [:react-native-contacts] C:\Users\remic\React native\ContactPOC\node_modules\react-native-contacts\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:5:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:6:22-70
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:7:22-68
+application
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:9:5-27:19
+MERGED from [com.facebook.react:react-native:0.60.3] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\ec4d8f9a6d15918e1c42405795d691b1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.3] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\ec4d8f9a6d15918e1c42405795d691b1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\b38accd05c5c47d2358d6afda0aa8e04\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\b38accd05c5c47d2358d6afda0aa8e04\AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\34fd03cde5f89690422da92f7375731d\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\34fd03cde5f89690422da92f7375731d\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\398e4f2c0b5677527109424a87447024\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\398e4f2c0b5677527109424a87447024\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\34fd03cde5f89690422da92f7375731d\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:11:7-39
+	android:roundIcon
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:13:7-52
+	android:icon
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:15:7-38
+	android:name
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:10:7-38
+activity#com.contactpoc.MainActivity
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:16:7-25:18
+	android:label
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:18:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:19:9-79
+	android:name
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:26:17-81
+uses-sdk
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] C:\Users\remic\React native\ContactPOC\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] C:\Users\remic\React native\ContactPOC\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-contacts] C:\Users\remic\React native\ContactPOC\node_modules\react-native-contacts\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-contacts] C:\Users\remic\React native\ContactPOC\node_modules\react-native-contacts\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\remic\React native\ContactPOC\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\remic\React native\ContactPOC\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.3] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\ec4d8f9a6d15918e1c42405795d691b1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.3] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\ec4d8f9a6d15918e1c42405795d691b1\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\1264155def2503d612285ee7083841ea\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\1264155def2503d612285ee7083841ea\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\remic\React native\ContactPOC\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\remic\React native\ContactPOC\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\c9b308f9dc76b7944a2aba3cc7f2a5dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\c9b308f9dc76b7944a2aba3cc7f2a5dd\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\2f228721ff7d9a689237dd7148ec3c34\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\2f228721ff7d9a689237dd7148ec3c34\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\3640fba5d8ae5d5fa08490447a40d0d5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\3640fba5d8ae5d5fa08490447a40d0d5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\5002c817fb53bd0a996a54b429ce6fb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\5002c817fb53bd0a996a54b429ce6fb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\5e1bf2f254262af325a0452904057eaf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\5e1bf2f254262af325a0452904057eaf\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\d66e4d7fa579764b36cf22cffb3c3cd0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\d66e4d7fa579764b36cf22cffb3c3cd0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\bd0ff7646136e24876dbec7be1b468fa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\bd0ff7646136e24876dbec7be1b468fa\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\a5bd5e07c6860ed6a5e3a0043cec3acb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\a5bd5e07c6860ed6a5e3a0043cec3acb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\b38accd05c5c47d2358d6afda0aa8e04\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\b38accd05c5c47d2358d6afda0aa8e04\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\e169dc3c514270f53d8783c24eb33391\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\e169dc3c514270f53d8783c24eb33391\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\5ffa37316f61d2ad86917b953b69eaea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\5ffa37316f61d2ad86917b953b69eaea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\d8bc5c7149afe8532206fa5b45da3bfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\d8bc5c7149afe8532206fa5b45da3bfd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\f973cc39d9434d52df508fab9468975d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\f973cc39d9434d52df508fab9468975d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\a709b9b457a65eea8f0d75f8f6acd7de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\a709b9b457a65eea8f0d75f8f6acd7de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\1e08a367aa29236cb46ee920386638a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\1e08a367aa29236cb46ee920386638a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\2f2443410e7e1d1bf241dcd119415f4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\2f2443410e7e1d1bf241dcd119415f4b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\879679ade22fbdf6b78695d87bed9b5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\879679ade22fbdf6b78695d87bed9b5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\4014f874bbdb7ea6daeef3464c0f76c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\4014f874bbdb7ea6daeef3464c0f76c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\403e293dc268d3337b77a247d4dd7c68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\403e293dc268d3337b77a247d4dd7c68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\8d243a12b2d90a51339eede61fe6a219\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\8d243a12b2d90a51339eede61fe6a219\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\6462f4d78bc085ba0e46cdc695fa9622\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\6462f4d78bc085ba0e46cdc695fa9622\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\6c7caf27caf7ea82e9cf4fa6d054bccf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\6c7caf27caf7ea82e9cf4fa6d054bccf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\34fd03cde5f89690422da92f7375731d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\34fd03cde5f89690422da92f7375731d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\398e4f2c0b5677527109424a87447024\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\398e4f2c0b5677527109424a87447024\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\6d759e24a0006f63f28e75cdf07be3e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\6d759e24a0006f63f28e75cdf07be3e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\40860aaef282783fefd0725d2fda4797\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\40860aaef282783fefd0725d2fda4797\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\f02b4daee7f1c5c5679f83d2f934380a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\f02b4daee7f1c5c5679f83d2f934380a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\fee90ae344f401d850b76483052f64ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\fee90ae344f401d850b76483052f64ac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\9dd1d58c6ff04731d303fcf17a6c8725\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\9dd1d58c6ff04731d303fcf17a6c8725\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\59bd15218f0850b255790e6988da7fd1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\59bd15218f0850b255790e6988da7fd1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\f874da5f7863be8bb936945a870f9dca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\f874da5f7863be8bb936945a870f9dca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\75b1c6bec5a4cfc2f4d3d70842e3fec2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\75b1c6bec5a4cfc2f4d3d70842e3fec2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\76b5b1bd87cb28c328078bd5ef0beb7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\76b5b1bd87cb28c328078bd5ef0beb7d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\cf32344c5ab50ea7bb372bdddfa1d0cf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\cf32344c5ab50ea7bb372bdddfa1d0cf\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\62bbd92f3e5fdf3231075cf1c8ce865f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\62bbd92f3e5fdf3231075cf1c8ce865f\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml

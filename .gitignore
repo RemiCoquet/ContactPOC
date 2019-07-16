@@ -2,7 +2,9 @@ node_modules
 ios/RCTContacts.xcodeproj/xcuserdata
 ios/RCTContacts.xcodeproj/project.xcworkspace
 
-android/app/build/*
+android/app/build/intermediates/*
+android/app/build/gradle/*
+R.java
 
 # Intellij
 .idea
