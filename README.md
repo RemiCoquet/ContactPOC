@@ -32,6 +32,18 @@ Détail:
   - On peut participer nous même à la correction de ce problème en participant à la modification de cette librairie
   NB: Je ne me suis pas attardé plus que ça sur le problème en ne voulant pas passer trop de temps dessus...
   
+ - Si on utilise cette API il faudra également faire attention à ce point: 
+    There are issues with updating contacts on Android:
+    custom labels get overwritten to "Other",
+    postal address update code doesn't exist. (it exists for addContact) See https://github.com/rt2zz/react-native-     contacts/issues/332#issuecomment-455675041 for current discussions.
+  
 # Remarque indépendante de ma volonté:
 - Je n'ai malheureusement pas pu compilé mon code pour le faire fonctionné sur iOS... Comme expliqué précédemment je ne suis hélas pas en possession d'un MAC donc pas de Xcode... J'espère que cela ne me portera pas trop préjudice
+
+# Test sur un device
+- Récupérer l'apk à l'adresse: https://we.tl/t-iRGNQ4XbON avant le 23/07/2019
+- Ouvrir le fichier sur un device Android
+- Autoriser l'installation de source inconnue
+
+Bonne réception!!
 
