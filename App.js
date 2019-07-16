@@ -1,9 +1,7 @@
 /**
  * POC AkaBi Contact
  * 
- *
- * @format
- * @flow
+ * Remi COQUET
  */
 
 import React from 'react';
@@ -12,7 +10,6 @@ import ButtonContact from './components/button-contact';
 import ModalContact from './components/modal-contact';
 import ContactList from './components/contact-list';
 import { style } from './styles/style';
-// import AsyncStorage from '@react-native-community/async-storage';
 import Contacts from 'react-native-contacts';
 import { PermissionsAndroid } from 'react-native';
 
@@ -38,27 +35,9 @@ export default class App extends React.Component {
 
 	// Load data from device memory
 	componentDidMount() {
-		// this.getStateCptGenerator();
 		this.requestContactPermission();
 		console.disableYellowBox = true;
 	}
-
-	// Save counter contact in device memory
-	// saveStateCptGenerator = async () => {
-	// 	try {
-	// 		await AsyncStorage.setItem(storageKey, this.state.cptGenerator.toString());
-	// 	} catch (e) {}
-	// };
-
-	// Get counter contact from device memory
-	// getStateCptGenerator = async () => {
-	// 	try {
-	// 		const value = await AsyncStorage.getItem(storageKey);
-	// 		if (value !== null) {
-	// 			this.setState({ cptGenerator: parseInt(value) });
-	// 		}
-	// 	} catch (e) {}
-	// };
 
 	// Function Modal appear/ disappear
 	toogleModalContactVisibility = () => {
@@ -82,7 +61,6 @@ export default class App extends React.Component {
 					'\nTéléphone: ' +
 					phoneNumber
 			});
-			// this.saveStateCptGenerator();
 			this.addNewContact();
 			this.getAllContacts();
 		} else {
