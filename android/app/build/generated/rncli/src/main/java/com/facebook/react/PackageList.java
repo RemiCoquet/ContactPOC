@@ -13,8 +13,6 @@ import java.util.ArrayList;
 import com.contactpoc.BuildConfig;
 import com.contactpoc.R;
 
-// @react-native-community/async-storage
-import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
 // react-native-contacts
 import com.rt2zz.reactnativecontacts.ReactNativeContacts;
 // react-native-gesture-handler
@@ -54,7 +52,6 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(),
-      new AsyncStoragePackage(),
       new ReactNativeContacts(),
       new RNGestureHandlerPackage(),
       new VectorIconsPackage()

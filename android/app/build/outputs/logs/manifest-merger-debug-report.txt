@@ -5,7 +5,6 @@ INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\Androi
 INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
 INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
 MERGED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml:1:1-29:12
-MERGED from [:@react-native-community_async-storage] C:\Users\remic\React native\ContactPOC\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-contacts] C:\Users\remic\React native\ContactPOC\node_modules\react-native-contacts\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
 MERGED from [:react-native-vector-icons] C:\Users\remic\React native\ContactPOC\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.60.3] C:\Users\remic\.gradle\caches\transforms-2\files-2.1\ec4d8f9a6d15918e1c42405795d691b1\AndroidManifest.xml:2:1-13:12
@@ -150,8 +149,6 @@ uses-sdk
 INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\remic\React native\ContactPOC\android\app\src\main\AndroidManifest.xml
-MERGED from [:@react-native-community_async-storage] C:\Users\remic\React native\ContactPOC\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_async-storage] C:\Users\remic\React native\ContactPOC\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-contacts] C:\Users\remic\React native\ContactPOC\node_modules\react-native-contacts\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-contacts] C:\Users\remic\React native\ContactPOC\node_modules\react-native-contacts\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] C:\Users\remic\React native\ContactPOC\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
